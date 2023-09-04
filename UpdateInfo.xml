@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
   <version>1.0.8.0</version>
-  <url>https://github.com/imhamzaa/general/raw/main/Dictalogic.Autosync.Installer.msi</url>
+  <url>https://github.com/imhamzaa/general/blob/41bbf439bf486757d9453afa420682c7bd71b499/Dictalogic.Autosync.Installer.msi</url>
   <changelog></changelog>
   <mandatory>false</mandatory>
 </item>
